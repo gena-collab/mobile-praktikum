@@ -18,6 +18,13 @@ Proyek ini bertujuan untuk mempelajari dasar pengembangan aplikasi mobile menggu
 
 Pastikan Flutter dan Android SDK sudah terpasang dan telah dikonfigurasi pada perangkat.
 
+Buka terminal pada folder utama proyek, kemudian jalankan perintah berikut:
+
+```bash
+flutter pub get
+flutter run
+```
+
 ## Pengembang
 
 Nama panggilan / akun GitHub: gena-collab
